@@ -2,6 +2,12 @@
 
 Framer Motion adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.1.2] Unreleased
+
+### Changed
+
+-   Internal refactoring to improve tree-shaking and allow for dynamic feature injection.
+
 ## [2.1.1] 2020-07-20
 
 ### Fixed
